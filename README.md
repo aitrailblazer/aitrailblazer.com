@@ -13,4 +13,4 @@ https://aitrailblazer.github.io/aitrailblazer.com/icon/AITrailblazer/AIBrandWiza
 https://aitrailblazer.github.io/aitrailblazer.com/icon/AITrailblazer/AIMessageOptimizer/AIMessageOptimizer.png
 
 
-https://aitrailblazer.github.io/aitrailblazer.com/icon/AITrailblazer/AIMessageOptimizer/AIMessageOptimizer.-01.png
+https://aitrailblazer.github.io/aitrailblazer.com/icon/AITrailblazer/AIMessageOptimizer/AIMessageOptimizer-01.png
