@@ -14,3 +14,5 @@ https://aitrailblazer.github.io/aitrailblazer.com/icon/AITrailblazer/AIMessageOp
 
 
 https://aitrailblazer.github.io/aitrailblazer.com/icon/AITrailblazer/AIMessageOptimizer/AIMessageOptimizer-01.png
+
+https://aitrailblazer.github.io/aitrailblazer.com/icon/AITrailblazer/AIBrandWizard/AIBrandWizardCircle.png
